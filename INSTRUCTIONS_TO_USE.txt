@@ -1,0 +1,18 @@
+INSTRUCTIONS TO USE:
+This folder has three file.
+
+1. A pdf file that contains output for individual - 50,100,150.
+2. PY2 that contains the code which you need to run.
+3. Instructions to use
+	Once you run the program it asks for input you want to print sum of.
+NOTE: enter only integer
+
+	You can enter the desired sum i.e 50,100,150 or any other number.
+	The program generates a list of 20 int & do not print the same array list for desired number
+	However sum of the numbers is the desired number and in rare cases close to it.
+
+NOTE: Once you provide number & run program, it produces result.
+To check it for other input you have to run program again.
+
+
+ 
